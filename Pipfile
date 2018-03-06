@@ -10,6 +10,7 @@ name = "pypi"
 jupyterlab = "*"
 pandas = "*"
 matplotlib = "*"
+geojson = "*"
 
 
 [dev-packages]
